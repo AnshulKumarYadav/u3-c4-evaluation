@@ -1,0 +1,34 @@
+#navbar{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    padding:10px;
+    background-color: antiquewhite;
+}
+#search_input{
+    width: 80%;
+
+}
+
+.news{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid teal;
+    height:auto;
+    margin-bottom: 20px;
+}
+.news>div{
+    width: 60%;
+    height: auto;
+}
+.news img{
+    width:200px;
+    height:100%;
+}
+

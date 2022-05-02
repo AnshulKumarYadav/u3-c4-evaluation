@@ -1,0 +1,16 @@
+#sidebar{
+    position:fixed;
+    background-color:antiquewhite;
+    top:60px;
+    left:0;
+    bottom:0;
+    width: 150px;
+    height: 700px;
+
+}
+
+#results{
+    width: 80%;
+    margin-left: 180px;
+    margin-top: 110px;
+}
